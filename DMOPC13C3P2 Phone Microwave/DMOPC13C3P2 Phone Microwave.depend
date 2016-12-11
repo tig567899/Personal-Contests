@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471576529 source:c:\users\starl\documents\1my stuff\programs\dmopc13c3p2 phone microwave\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
